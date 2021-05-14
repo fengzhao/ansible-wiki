@@ -2,14 +2,14 @@
 site_name: 'Ansible wiki'
 site_description: 'ansible,wiki,ops,devops,auto,运维自动化'
 site_author: 'lework'
-site_url: 'https://ansible.leops.cn'
+site_url: 'https://ansible.fengzhao.ml'
 
 # Repository
-repo_name: 'leops-china/ansible-wiki'
-repo_url: 'https://github.com/leops-china/ansible-wiki'
+repo_name: 'fengzhao/ansible-wiki'
+repo_url: 'https://github.com/fengzhao/ansible-wiki'
 
 # Copyright
-copyright: 'Copyright &copy; 2020 - 2020 leops'
+copyright: 'Copyright &copy; 2020 - 2021 fengzhao'
 
 # Configuration
 theme:
@@ -40,7 +40,7 @@ extra:
     theme: github-light
   social:
     - icon: fontawesome/brands/github-alt
-      link: 'https://github.com/leops-china/ansible-wiki'
+      link: 'https://github.com/fengzhao/ansible-wiki'
 
 # Google Analytics
 #google_analytics:
